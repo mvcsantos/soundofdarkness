@@ -1,0 +1,23 @@
+{ae5c101f-527a-4285-bacd-1744f5824669} event:/Environment/Glass break
+{2795502a-ec63-41d9-bc0c-faf1ded07812} event:/Environment/Monster
+{ba8ba7f5-df80-4848-b74b-e970c5b53184} event:/Environment/Monster constant
+{ca8ce86f-814b-4ac4-a64d-5fc2be807c30} event:/Environment/Monster kill
+{b38fae4d-c278-4f15-bfa5-dac7271440fb} event:/Environment/Spikes
+{94eb1c46-afda-4a1f-8831-ca337b59009c} event:/Environment/Trap
+{575edd19-add8-4499-bbfb-1311b10ad52b} event:/Environment/vent
+{6b997b47-79f2-4d7c-ac26-195f26f92cd4} event:/Player/Whistle/Whistle A
+{7f573bef-203e-4ee8-87de-98a8960af536} event:/Player/Whistle/Whistle B
+{7b401eac-46cd-4ed3-a653-986385a6298d} event:/Player/Whistle/Whistle C
+{2ef4c4a3-9ca6-4e51-9aa8-1c5d64259182} event:/Player/Whistle/Whistle wave
+{2dfe7332-1a9f-45a3-b7ca-90271b1a948c} event:/Player/Jump
+{640504c4-2c92-467f-8bbe-3a4d49c09dbc} event:/Player/Step
+{9b5d01ec-495a-41d5-bff6-e8435c907ab7} event:/Music
+{fd9e0966-8dc4-4e55-addb-db1bf6da9f7b} event:/UI
+{547e813b-2000-4f83-a560-25f1c43e963b} bus:/
+{dfb397f7-2e49-4987-8d07-6401837a0739} bus:/Environment
+{2ade6a53-3adc-4dc7-b5ff-8758c3a2de0c} bus:/Music
+{7c380e8c-985e-4e83-bc28-7b725ab42c14} bus:/Player
+{f44ac7e2-d8e4-4339-84d2-f9b0e271148b} bus:/UI
+{e3870da1-1626-4e78-ba50-a358860aa7c8} bus:/Reverb
+{8d5087a6-4be7-4582-ac4a-01d1cf9f05fb} snapshot:/Whistle
+{02feb148-18f4-4c7a-b0e9-17c9ffaa8cad} bank:/Master Bank
