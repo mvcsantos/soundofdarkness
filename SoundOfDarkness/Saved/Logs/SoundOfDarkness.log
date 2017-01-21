@@ -442,3 +442,255 @@ LogInit: Object subsystem initialized
 [2017.01.21-13.06.57:085][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
 [2017.01.21-13.07.08:443][156]LogSavePackage: Save=156.05ms
 [2017.01.21-13.07.08:443][156]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/2DSideScrollerExampleMap7D59083744D138E0B8E2A08FA5650822.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.01.21-13.07.08:450][156]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2017.01.21-13.07.08:499][156]LogSavePackage: Save=3.13ms
+[2017.01.21-13.07.08:499][156]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/2DSideScrollerExampleMap_BuiltData11DAA96140CC516A3D9E3BBEFE8CF4C5.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.01.21-13.07.08:502][156]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.01.21-13.08.32:707][486]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-13.08.34:027][551]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-13.08.34:713][586]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2017.01.21-13.08.35:313][616]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-13.09.03:307][ 22]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2017.01.21-13.09.05:735][158]Cmd: TRANSACTION UNDO
+[2017.01.21-13.09.05:735][158]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.21-13.09.06:376][190]Cmd: TRANSACTION UNDO
+[2017.01.21-13.09.06:376][190]LogEditorTransaction: Undo Replace component used material
+[2017.01.21-13.09.07:335][240]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-13.09.07:775][255]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-13.09.08:392][283]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-13.09.44:700][154]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-13.09.47:897][318]LogEditorViewport: Clicking on Actor (LMB): Monster_C (Monster)
+[2017.01.21-13.09.50:500][443]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-13.09.51:695][504]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-13.10.42:965][319]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.21-13.10.42:982][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.21-13.10.42:982][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.21-13.10.42:982][319]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 21, 2017, 1:10:42 PM)
+[2017.01.21-13.10.42:983][319]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.01.21-13.10.42:994][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011216s)
+[2017.01.21-13.10.42:995][319]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.21-13.10.42:995][319]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2017.01.21-13.10.42:996][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.013463s)
+[2017.01.21-13.10.43:074][319]LogInit: XAudio2 using 'Auscultadores (MDR-ZX770BN Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.21-13.10.43:092][319]LogInit: FAudioDevice initialized.
+[2017.01.21-13.10.43:132][319]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.01.21-13.10.43:135][319]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2017.01.21-13.10.43
+[2017.01.21-13.10.43:136][319]LogWorld: Bringing up level for play took: 0.002987
+[2017.01.21-13.10.43:139][319]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.436
+[2017.01.21-13.10.43:139][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.21-13.10.51:976][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.21-13.10.52:028][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.21-13.17.17:876][882]LogSavePackage: Save=203.32ms
+[2017.01.21-13.17.17:877][882]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/2DSideScrollerExampleMap_Auto1D8FA0A93493B8448B3414BA64EB713A7.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2017.01.21-13.17.17:881][882]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap
+[2017.01.21-13.17.17:884][882]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.276
+[2017.01.21-13.17.17:884][882]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.276
+[2017.01.21-13.26.12:413][599]LogAudio:Warning: Current Audio Device with ID {0.0.0.00000000}.{0a26b38c-82cc-4f2a-bb4c-f8e6356dbf15} was removed. Shutting down audio device.
+[2017.01.21-15.51.36:986][695]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\alour\Desktop\GGJ\FanSheet.png)
+[2017.01.21-15.51.37:030][695]LogTexture:Display: Building textures: FanSheet (BGRA8)
+[2017.01.21-15.52.24:545][389]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.093
+[2017.01.21-15.52.24:550][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/SpriteShets/Props/FanSheet] ([1] browsable assets)...
+[2017.01.21-15.52.24:557][389]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/SpriteShets/Props/FanSheet.FanSheet]
+[2017.01.21-15.52.24:557][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/SpriteShets/Props/FanSheet]
+[2017.01.21-15.52.24:570][389]LogSavePackage: Save=10.14ms
+[2017.01.21-15.52.24:570][389]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/FanSheet_Auto221D2A43444ECA7FA20A920AEC4A83D70.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Auto2.uasset'
+[2017.01.21-15.52.24:573][389]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Auto2.uasset
+[2017.01.21-15.52.24:574][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_0] ([1] browsable assets)...
+[2017.01.21-15.52.24:598][389]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_0.FanSheet_Sprite_0]
+[2017.01.21-15.52.24:599][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_0]
+[2017.01.21-15.52.24:618][389]LogSavePackage: Save=16.97ms
+[2017.01.21-15.52.24:618][389]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/FanSheet_Sprite_0_Auto2DD9E172146F44F8722E8EBB5704CCAFA.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_0_Auto2.uasset'
+[2017.01.21-15.52.24:621][389]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_0_Auto2.uasset
+[2017.01.21-15.52.24:623][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_1] ([1] browsable assets)...
+[2017.01.21-15.52.24:643][389]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_1.FanSheet_Sprite_1]
+[2017.01.21-15.52.24:643][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_1]
+[2017.01.21-15.52.24:656][389]LogSavePackage: Save=9.80ms
+[2017.01.21-15.52.24:656][389]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/FanSheet_Sprite_1_Auto2C18750D24F479462BCB931A11C551797.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_1_Auto2.uasset'
+[2017.01.21-15.52.24:659][389]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_1_Auto2.uasset
+[2017.01.21-15.52.24:661][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_2] ([1] browsable assets)...
+[2017.01.21-15.52.24:682][389]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_2.FanSheet_Sprite_2]
+[2017.01.21-15.52.24:682][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_2]
+[2017.01.21-15.52.24:697][389]LogSavePackage: Save=11.56ms
+[2017.01.21-15.52.24:697][389]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/FanSheet_Sprite_2_Auto205F2BF684A7B596C6C9A1C8E6A94A9D8.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_2_Auto2.uasset'
+[2017.01.21-15.52.24:701][389]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_2_Auto2.uasset
+[2017.01.21-15.52.24:703][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_3] ([1] browsable assets)...
+[2017.01.21-15.52.24:721][389]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_3.FanSheet_Sprite_3]
+[2017.01.21-15.52.24:721][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_3]
+[2017.01.21-15.52.24:736][389]LogSavePackage: Save=12.20ms
+[2017.01.21-15.52.24:736][389]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/FanSheet_Sprite_3_Auto2D41AB57A41249957B7EF1E8FB90E3559.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_3_Auto2.uasset'
+[2017.01.21-15.52.24:740][389]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScroller/SpriteShets/Props/FanSheet_Sprite_3_Auto2.uasset
+[2017.01.21-15.52.24:740][389]LogFileHelpers: Auto-saving content packages took 0.193
+[2017.01.21-15.53.35:415][714]LogSavePackage: Save=9.35ms
+[2017.01.21-15.53.35:415][714]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Fan_AnimE59F7BC940F4AC1B240256B2B759242D.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScroller/FlipBooks/Fan_Anim.uasset'
+[2017.01.21-15.53.35:421][714]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScroller/FlipBooks/Fan_Anim.uasset
+[2017.01.21-15.53.44:625][124]LogSavePackage: Save=3.48ms
+[2017.01.21-15.53.44:625][124]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Fan_AnimD502C31646AA0C5B5575EDAACD9ECEAC.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScroller/FlipBooks/Fan_Anim.uasset'
+[2017.01.21-15.53.44:627][124]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScroller/FlipBooks/Fan_Anim.uasset
+[2017.01.21-15.55.51:499][585]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-15.55.55:178][796]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-15.55.56:737][875]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-15.56.01:139][134]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-15.56.02:179][184]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.16.52:826][641]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.16.53:675][671]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.21-16.16.55:025][724]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.16.55:922][756]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.21-16.16.56:882][793]Cmd: DELETE
+[2017.01.21-16.16.56:882][793]Cmd: ACTOR DELETE
+[2017.01.21-16.16.56:884][793]LogEditorActor: Deleted Actor: PointLight
+[2017.01.21-16.16.56:994][793]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2017.01.21-16.16.59:737][918]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.21-16.17.49:393][134]LogSavePackage: Save=246.80ms
+[2017.01.21-16.17.49:393][134]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/2DSideScrollerExampleMap_Auto3338039D74D481FAFE95F7888B375DB65.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2017.01.21-16.17.49:396][134]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap
+[2017.01.21-16.17.49:399][134]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.321
+[2017.01.21-16.17.49:399][134]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.321
+[2017.01.21-16.18.12:544][179]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.21-16.18.12:560][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.21-16.18.12:560][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.21-16.18.12:561][179]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 21, 2017, 4:18:12 PM)
+[2017.01.21-16.18.12:561][179]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.01.21-16.18.12:583][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022258s)
+[2017.01.21-16.18.12:585][179]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.01.21-16.18.12:586][179]LogPlayLevel: PIE: World Init took: (0.002414s)
+[2017.01.21-16.18.12:586][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.025486s)
+[2017.01.21-16.18.12:654][179]LogInit: XAudio2 using 'Auscultadores (MDR-ZX770BN Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.21-16.18.13:322][179]LogInit: FAudioDevice initialized.
+[2017.01.21-16.18.13:360][179]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.01.21-16.18.13:363][179]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2017.01.21-16.18.13
+[2017.01.21-16.18.13:364][179]LogWorld: Bringing up level for play took: 0.003464
+[2017.01.21-16.18.13:367][179]PIE: Info Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.792
+[2017.01.21-16.18.13:367][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.21-16.18.29:475][145]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0066
+[2017.01.21-16.18.29:477][145]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.29:477][145]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0159
+[2017.01.21-16.18.29:477][145]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.29:570][151]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0066
+[2017.01.21-16.18.29:570][151]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.29:570][151]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0159
+[2017.01.21-16.18.29:571][151]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.29:687][158]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0066
+[2017.01.21-16.18.29:687][158]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.29:688][158]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0159
+[2017.01.21-16.18.29:688][158]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.29:787][164]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0066
+[2017.01.21-16.18.29:787][164]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.29:787][164]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0159
+[2017.01.21-16.18.29:788][164]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.29:937][173]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0066
+[2017.01.21-16.18.29:937][173]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.29:937][173]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0159
+[2017.01.21-16.18.29:937][173]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.30:037][179]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0066
+[2017.01.21-16.18.30:037][179]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.30:037][179]LogScript:Warning: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+	UpdateHeardTargetService_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.MonsterAI_CON_C_0.BTComponent.UpdateHeardTargetService_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/UpdateHeardTargetService.UpdateHeardTargetService_C:ExecuteUbergraph_UpdateHeardTargetService:0159
+[2017.01.21-16.18.30:037][179]PIE:Error: Error Blueprint Runtime Error: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill from function: 'ExecuteUbergraph_UpdateHeardTargetService' from node: Branch in graph: EventGraph in object: UpdateHeardTargetService with description: Attempted to access 2DSideScrollerCharacter_254 via property Player, but 2DSideScrollerCharacter_254 is pending kill
+[2017.01.21-16.18.30:138][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.21-16.18.30:196][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.01.21-16.19.39:985][559]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.21-16.19.49:079][964]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.01.21-16.19.55:621][247]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.19.56:139][260]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.19.56:933][290]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.19.57:527][312]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.19.57:894][327]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.19.58:332][343]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.19.58:830][360]Cmd: TRANSACTION UNDO
+[2017.01.21-16.19.58:830][360]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.21-16.19.59:334][375]Cmd: TRANSACTION UNDO
+[2017.01.21-16.19.59:334][375]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.21-16.19.59:848][396]Cmd: TRANSACTION UNDO
+[2017.01.21-16.19.59:848][396]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.21-16.20.00:229][411]Cmd: TRANSACTION UNDO
+[2017.01.21-16.20.00:229][411]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.21-16.20.01:142][447]Cmd: TRANSACTION UNDO
+[2017.01.21-16.20.01:142][447]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.21-16.20.01:446][459]Cmd: TRANSACTION UNDO
+[2017.01.21-16.20.01:446][459]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.21-16.20.01:671][467]Cmd: TRANSACTION UNDO
+[2017.01.21-16.20.01:671][467]LogEditorTransaction: Undo Move Actors
+[2017.01.21-16.20.02:161][488]Cmd: TRANSACTION UNDO
+[2017.01.21-16.20.02:161][488]LogEditorTransaction: Undo Move Actors
+[2017.01.21-16.20.02:550][505]Cmd: TRANSACTION UNDO
+[2017.01.21-16.20.02:550][505]LogEditorTransaction: Undo Move Actors
+[2017.01.21-16.20.02:959][523]Cmd: TRANSACTION UNDO
+[2017.01.21-16.20.02:959][523]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.21-16.20.03:399][542]Cmd: TRANSACTION UNDO
+[2017.01.21-16.20.03:399][542]LogEditorTransaction: Undo Move Actors
+[2017.01.21-16.20.03:815][560]Cmd: TRANSACTION UNDO
+[2017.01.21-16.20.03:815][560]LogEditorTransaction: Undo Move Actors
+[2017.01.21-16.20.04:423][586]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.20.21:683][291]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.20.22:187][310]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2017.01.21-16.20.23:187][352]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.01.21-16.20.24:331][401]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.21-16.20.28:259][574]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.20.29:138][608]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2017.01.21-16.20.41:714][141]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.01.21-16.20.48:009][409]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.20.48:367][422]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.21-16.20.59:969][923]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.21.17:561][645]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.21.18:449][680]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.21.23:888][870]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2017.01.21-16.21.31:581][205]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.21.32:108][225]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.01.21-16.21.35:802][383]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.21-16.21.40:617][592]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.21.44:756][756]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.01.21-16.21.45:294][778]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.21-16.21.46:847][846]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.21.53:790][106]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.21-16.22.00:612][404]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.22.01:347][433]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.22.01:817][451]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.01.21-16.22.05:561][615]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2017.01.21-16.22.10:448][832]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.22.11:542][876]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.21-16.22.22:502][352]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.22.22:840][364]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.22.23:233][379]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.22.23:820][402]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2017.01.21-16.22.30:024][672]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.22.32:801][782]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.01.21-16.22.41:756][172]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.22.43:406][234]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.01.21-16.22.47:043][381]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.22.47:681][401]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.22.50:920][522]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.01.21-16.22.51:470][543]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.01.21-16.22.55:201][696]Cmd: TRANSACTION UNDO
+[2017.01.21-16.22.55:201][696]LogEditorTransaction: Undo Move Actors
+[2017.01.21-16.22.55:837][722]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.25.21:433][368]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.25.22:173][392]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.25.26:354][549]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.25.27:770][601]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2017.01.21-16.25.28:557][627]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.01.21-16.25.30:243][679]LogSavePackage: Save=157.65ms
+[2017.01.21-16.25.30:243][679]LogSavePackage: Moving '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Saved/2DSideScrollerExampleMap65F5F4ED4A4D069D28C4EA8745287EC6.tmp' to '../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2017.01.21-16.25.30:250][679]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/alour/Desktop/GGJ/repo/soundofdarkness/SoundOfDarkness/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
