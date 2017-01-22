@@ -9,11 +9,11 @@
 {7f573bef-203e-4ee8-87de-98a8960af536} event:/Player/Whistle/Whistle B
 {7b401eac-46cd-4ed3-a653-986385a6298d} event:/Player/Whistle/Whistle C
 {2ef4c4a3-9ca6-4e51-9aa8-1c5d64259182} event:/Player/Whistle/Whistle wave
+{c48ede78-15bc-42b6-bbde-09cb839d7f04} event:/Player/Death
 {2dfe7332-1a9f-45a3-b7ca-90271b1a948c} event:/Player/Jump
 {70d2fcc4-9e2e-4abc-a865-659b7e7765e4} event:/Player/Land
 {640504c4-2c92-467f-8bbe-3a4d49c09dbc} event:/Player/Step
 {e64cd614-d202-4d34-b677-f3597008aa07} event:/Player/Step 500
-{38deb449-b094-48a3-b175-52bb5b591a9f} event:/Player/Step 750
 {9b5d01ec-495a-41d5-bff6-e8435c907ab7} event:/Music
 {fd9e0966-8dc4-4e55-addb-db1bf6da9f7b} event:/UI
 {547e813b-2000-4f83-a560-25f1c43e963b} bus:/
@@ -23,4 +23,5 @@
 {f44ac7e2-d8e4-4339-84d2-f9b0e271148b} bus:/UI
 {e3870da1-1626-4e78-ba50-a358860aa7c8} bus:/Reverb
 {8d5087a6-4be7-4582-ac4a-01d1cf9f05fb} snapshot:/Whistle
+{1e9ef74a-1766-4317-872c-c0ec8bd3abbf} snapshot:/Dead
 {02feb148-18f4-4c7a-b0e9-17c9ffaa8cad} bank:/Master Bank
