@@ -12,6 +12,8 @@
 {2dfe7332-1a9f-45a3-b7ca-90271b1a948c} event:/Player/Jump
 {70d2fcc4-9e2e-4abc-a865-659b7e7765e4} event:/Player/Land
 {640504c4-2c92-467f-8bbe-3a4d49c09dbc} event:/Player/Step
+{e64cd614-d202-4d34-b677-f3597008aa07} event:/Player/Step 500
+{38deb449-b094-48a3-b175-52bb5b591a9f} event:/Player/Step 750
 {9b5d01ec-495a-41d5-bff6-e8435c907ab7} event:/Music
 {fd9e0966-8dc4-4e55-addb-db1bf6da9f7b} event:/UI
 {547e813b-2000-4f83-a560-25f1c43e963b} bus:/
