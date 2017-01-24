@@ -10,6 +10,7 @@
 {7b401eac-46cd-4ed3-a653-986385a6298d} event:/Player/Whistle/Whistle C
 {2ef4c4a3-9ca6-4e51-9aa8-1c5d64259182} event:/Player/Whistle/Whistle wave
 {c48ede78-15bc-42b6-bbde-09cb839d7f04} event:/Player/Death
+{49a52790-39fe-4f5c-8a89-45051dbeb6dd} event:/Player/Death 2
 {2dfe7332-1a9f-45a3-b7ca-90271b1a948c} event:/Player/Jump
 {70d2fcc4-9e2e-4abc-a865-659b7e7765e4} event:/Player/Land
 {640504c4-2c92-467f-8bbe-3a4d49c09dbc} event:/Player/Step
